@@ -1,0 +1,1 @@
+Example use of Stacked auto-encoder for novelty detection based on reconstruction error
